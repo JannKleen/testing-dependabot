@@ -24,7 +24,7 @@ django-anymail = "==8.5"
 sentry-sdk = "==1.5.11"
 django-email-bandit = "==2.0"
 celery = {extras = ["redis"], version = "==5.2.6"}
-slack-sdk = "==3.16.0"
+slack-sdk = "==3.16.1"
 hubspot-api-client = "==5.0.0"
 django-import-export = "==2.8.0"
 drf-nested-routers = "==0.93.4"
